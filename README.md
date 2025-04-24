@@ -5,7 +5,7 @@ This project implements a dual-model approach for heart failure prediction using
 
 ![heartimage](https://media.gettyimages.com/id/1320270583/photo/close-up-of-man-is-heart-attack.jpg?s=2048x2048&w=gi&k=20&c=qM8XA9gSBeqvJXqB0hXbP06XwoYApHJoEw_lDt-1LjQ=)
 
-[Visit Deployed App]([https://heart-failure-prediction-aryandhanuka10.streamlit.app/](https://heartdiseaseprediction-parth.streamlit.app/))
+[Visit Deployed App]([https://heart-failure-prediction-aryandhanuka10.streamlit.app/](https://heartdiseaseprediction-parth.streamlit.app/)
 
 ## Features
 - **Dual Prediction Methods**:
