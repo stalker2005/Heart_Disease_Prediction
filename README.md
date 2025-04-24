@@ -48,7 +48,7 @@ heart_failure_pred/
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/AryanDhanuka10/Heart-Failure-Prediction.git
+git clone https://github.com/srtalker2005/Heart-Failure-Prediction.git
 cd heart_failure_pred
 ```
 
